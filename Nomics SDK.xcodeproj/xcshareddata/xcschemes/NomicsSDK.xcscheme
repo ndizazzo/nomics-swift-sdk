@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "52D6D9E11BEFFF6E002C0205"
-               BuildableName = "NomicsSDK.framework"
-               BlueprintName = "Nomics SDK-watchOS"
+               BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
+               BuildableName = "Nomics SDK.framework"
+               BlueprintName = "Nomics SDK"
                ReferencedContainer = "container:Nomics SDK.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,7 +29,26 @@
       codeCoverageEnabled = "YES"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "52D6D9851BEFF229002C0205"
+               BuildableName = "Nomics SDK Tests.xctest"
+               BlueprintName = "Nomics SDK Tests"
+               ReferencedContainer = "container:Nomics SDK.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
+            BuildableName = "Nomics SDK.framework"
+            BlueprintName = "Nomics SDK"
+            ReferencedContainer = "container:Nomics SDK.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -46,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D9E11BEFFF6E002C0205"
-            BuildableName = "NomicsSDK.framework"
-            BlueprintName = "Nomics SDK-watchOS"
+            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
+            BuildableName = "Nomics SDK.framework"
+            BlueprintName = "Nomics SDK"
             ReferencedContainer = "container:Nomics SDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,9 +83,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "52D6D9E11BEFFF6E002C0205"
-            BuildableName = "NomicsSDK.framework"
-            BlueprintName = "Nomics SDK-watchOS"
+            BlueprintIdentifier = "52D6D97B1BEFF229002C0205"
+            BuildableName = "Nomics SDK.framework"
+            BlueprintName = "Nomics SDK"
             ReferencedContainer = "container:Nomics SDK.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
